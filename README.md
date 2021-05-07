@@ -3,6 +3,9 @@
 ### /nautilus
 [Nautilus](https://en.wikipedia.org/wiki/GNOME_Files) action scripts.
 
+symlink to `~/.local/share/nautilus/scripts/` to add action scripts to the
+Nautilus context menu.
+
 ### /audio
 Sound-related scripts.
 
